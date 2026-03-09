@@ -5,7 +5,7 @@ Final-year BTech student passionate about building scalable software and solving
 I enjoy working across the software stack — from implementing efficient algorithms to developing backend systems and APIs.
 
 Current Focus:
-• Data Structures & Algorithms in C++  
+• Data Structures & Algorithms
 • Backend development with Python and FastAPI  
 • Building real-world software and systems
 
