@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Aditya 👋
 
-<!--
-**adityamondal1311/adityamondal1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BTech student passionate about building scalable software and solving complex problems through code.
 
-Here are some ideas to get you started:
+I enjoy working across the software stack — from implementing efficient algorithms to developing backend systems and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus:
+• Data Structures & Algorithms in C++  
+• Backend development with Python and FastAPI  
+• Building real-world software and systems
+
+Tech Stack
+
+Languages:
+Java • Python • SQL
+
+Web & APIs:
+HTML • CSS • JavaScript • REST APIs
+
+Tools & Technologies:
+Git • Docker
+
+Computer Science Fundamentals:
+Data Structures & Algorithms • Object-Oriented Programming • Operating Systems • Database Management Systems
+
+Database:
+SQL • Joins • Query Writing
+
+Interests:
+Backend Engineering | Distributed Systems | Fintech | System Design
+
+Open to opportunities in:
+Software Engineering • Backend Development • Fintech • Startups
